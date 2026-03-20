@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Assistant",
+  "description": "A RAG-powered technical assistant for the Endee high-performance vector database, featuring semantic search, repository analysis, and a technical dashboard interface.",
+  "requestFramePermissions": []
+}
